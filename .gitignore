@@ -1,0 +1,11 @@
+.*
+!.gitignore
+!.gitattributes
+!.editorconfig
+!.github
+
+# VSCode files
+!.vscode/
+
+# CMake build directory
+build/
